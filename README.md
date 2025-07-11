@@ -1,4 +1,4 @@
-## Adding changes for cheking fork functionality
+## Adding changes for checking fork functionality
 
 
 ![Banner](https://github.com/ExpressLRS/ExpressLRS-Hardware/blob/master/img/banner.png?raw=true)
